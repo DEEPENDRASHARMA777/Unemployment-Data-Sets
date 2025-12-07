@@ -16,18 +16,6 @@
 
 ---
 
-## 📁 Repository Structure
-Unemployment-Data-Sets/
-│
-├── data_raw/ # Original, unmodified datasets
-├── data_cleaned/ # Cleaned & standardized datasets
-├── notebooks/ # Jupyter notebooks (EDA, ML models)
-├── scripts/ # Cleaning, preprocessing & automation scripts
-├── visuals/ # Exported charts, maps, and graphics
-
-
----
-
 ## 🌍 Overview
 
 This repository brings together **high-quality unemployment datasets** from trusted global organizations.  
